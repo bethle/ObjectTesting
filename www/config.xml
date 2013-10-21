@@ -26,6 +26,8 @@
     <gap:splash gap:platform="android" height="1280" src="img/EBS_Mobility_Logo_480_320.png" width="720"/>   
     
     <feature name="http://api.phonegap.com/1.0/device" />
+    <preference name="phonegap-version" value="3.0.0" /> <!-- all: current version of PhoneGap -->
+    
         
     <access origin="*"/>
 </widget>
